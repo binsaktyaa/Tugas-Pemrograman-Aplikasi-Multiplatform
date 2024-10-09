@@ -9,5 +9,5 @@
  Membuat halaman login page dari figma yang tersedia
 
 ## DOKUMENTASI
-![Screenshot 1](SCREENSHOT/Gambar.png)
+![Screenshot 1](TUGAS%1/SCREENSHOT/Gambar.png)
 
